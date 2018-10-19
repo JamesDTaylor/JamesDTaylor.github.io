@@ -6,7 +6,7 @@
 Languages | Concepts
 --------- | ---------
 Python    | Exploratory Data Analysis
-          | Machine Learning
+&nbsp; | Machine Learning
           | Neural Networks
           | Social Network Analysis
           | Data Visualisation 
