@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+# Github Pages
 
-You can use the [editor on GitHub](https://github.com/JamesDTaylor/JamesDTaylor.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## This is my public github site where I showcase Kaggle projects that I am currently working on
+#### My aim is to showcase my skills in Data Science. My focus will be on the following:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Languages | Concepts
+--------- | ---------
+Python    | Exploratory Data Analysis
+&nbsp;    | Machine Learning
+&nbsp;    | Neural Networks
+&nbsp;    | Social Network Analysis
+&nbsp;    | Data Visualisation 
 
-### Markdown
+### 1. PUBG Winner Prediction (EDA, Machine Learning and Data Visualisation)
+- [ ] In progress
+<img src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2018/01/pubg%20poster.jpg" width="1000" height="500">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 2. Titanic - Predicting survivors (EDA, Machine Learning and Data Visualisation)
+- [ ] In progress
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1280px-RMS_Titanic_3.jpg" width="1000" height="500">
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JamesDTaylor/JamesDTaylor.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 3. Neuroscience (Neural networks)
+- [ ] In progress
+<img src="https://cdn-images-1.medium.com/max/2000/1*m2gDBT_nc-iE7R4AM3sHBQ.jpeg" width="1000" height="500">
