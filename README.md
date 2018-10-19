@@ -3,5 +3,7 @@
 ## This is my public github site where I showcase Kaggle projects that I am currently working on:
 ### 1. PUBG Winner Prediction (EDA and Machine Learning)
 ![pubg poster.jpg](https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2018/01/pubg%20poster.jpg?itok=fCydk_kg)
-2. Titanic - Predicting survivors (EDA and Machine Learning)
+
+### 2. Titanic - Predicting survivors (EDA and Machine Learning)
+![1280px-RMS_Titanic_3.jpg](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1280px-RMS_Titanic_3.jpg)
 3. Neuroscience (Neural networks)
