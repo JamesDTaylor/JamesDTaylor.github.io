@@ -14,3 +14,5 @@
 
 ### 3. Neuroscience (Neural networks)
 ![1_m2gDBT_nc-iE7R4AM3sHBQ.jpeg](https://cdn-images-1.medium.com/max/2000/1*m2gDBT_nc-iE7R4AM3sHBQ.jpeg)
+
+<img src="https://cdn-images-1.medium.com/max/2000/1*m2gDBT_nc-iE7R4AM3sHBQ.jpeg" width="1000" height="500">
