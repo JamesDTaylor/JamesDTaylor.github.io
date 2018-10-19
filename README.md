@@ -2,7 +2,7 @@
 
 ## This is my public github site where I showcase Kaggle projects that I am currently working on:
 ### My aim is to showcase my python skills for data science as and when I learn them and my focus will be on the following:
-
+<table align="center">
 Languages | Concepts
 --------- | ---------
 Python    | Exploratory Data Analysis
@@ -10,7 +10,7 @@ Python    | Exploratory Data Analysis
 &nbsp;    | Neural Networks
 &nbsp;    | Social Network Analysis
 &nbsp;    | Data Visualisation 
-
+</table>
 ### 1. PUBG Winner Prediction (EDA and Machine Learning)
 - [ ] In progress
 <img src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2018/01/pubg%20poster.jpg" width="1000" height="500">
