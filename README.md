@@ -6,10 +6,10 @@
 Languages | Concepts
 --------- | ---------
 Python    | Exploratory Data Analysis
-&nbsp; | Machine Learning
-          | Neural Networks
-          | Social Network Analysis
-          | Data Visualisation 
+&nbsp;    | Machine Learning
+&nbsp;    | Neural Networks
+&nbsp;    | Social Network Analysis
+&nbsp;    | Data Visualisation 
 
 ### 1. PUBG Winner Prediction (EDA and Machine Learning)
 - [ ] In progress
