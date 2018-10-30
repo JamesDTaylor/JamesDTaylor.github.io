@@ -15,9 +15,8 @@ Python    | Exploratory Data Analysis
 - [ ] In progress
 <img src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/xlarge/public/field/image/2018/01/pubg%20poster.jpg" width="1000" height="500">
 
-### 2. Titanic - Predicting survivors (EDA, Machine Learning and Data Visualisation)
+### 2. TBD (EDA, Machine Learning and Data Visualisation)
 - [ ] In progress
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/RMS_Titanic_3.jpg/1280px-RMS_Titanic_3.jpg" width="1000" height="500">
 
 ### 3. Neuroscience (Neural networks)
 - [ ] In progress
