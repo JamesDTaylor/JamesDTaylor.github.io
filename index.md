@@ -7,7 +7,7 @@ Languages | Concepts
 --------- | ---------
 Python    | Exploratory Data Analysis
 &nbsp;    | Machine Learning
-&nbsp;    | Dashboard Design
+Google Data Studio/Microsoft Excel   | Dashboard Design
 &nbsp;    | Data Visualisation 
 
 ### 1. Kaggle Data Science and Machine Learning 2018 Survey (EDA, Data Visualisation and Dashboard Design)
